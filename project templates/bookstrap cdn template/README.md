@@ -72,19 +72,19 @@ alert('JavaScript & jQuery are Working .... ')
 
 ## DOWNLOAD
 
-**LINUX** `workbook-html5 semantics template/*`
+**LINUX** `workbook-css3 bootstrap cdn template/*`
 
 ```cmd
 git clone https://github.com/ZaeemTarrar/workbook-css3.git ; ; rm -rf workbook-css3/.git ; cp -r "workbook-css3/project templates/bootstrap cdn template/" "./workbook-css3 bootstrap cdn template" ; rm -rf "workbook-css3" ; cd "workbook-css3 bootstrap cdn template" ;
 ```
 
-**MAC** `workbook-html5 semantics template/*`
+**MAC** `workbook-css3 bootstrap cdn template/*`
 
 ```cmd
 git clone https://github.com/ZaeemTarrar/workbook-css3.git ; ; rm -rf workbook-css3/.git ; cp -r "workbook-css3/project templates/bootstrap cdn template/" "./workbook-css3 bootstrap cdn template" ; rm -rf "workbook-css3" ; cd "workbook-css3 bootstrap cdn template" ;
 ```
 
-**WINDOWS** `workbook-html5 semantics template/*`
+**WINDOWS** `workbook-css3 bootstrap cdn template/*`
 
 ```cmd
 git clone https://github.com/ZaeemTarrar/workbook-css3.git && cd workbook-css3 && del /Q .git && mkdir "../zaeem-css3" && move ".\project templates\bootstrap cdn template\*" "..\zaeem-css3" && cd ../ && rmdir /s /q "workbook-css3" && rename "zaeem-css3" "workbook-css3 bootstrap cdn template" && cd "workbook-css3 bootstrap cdn template"
